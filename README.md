@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am @havardekodehode
 
 - 🔭 I’m currently working on a full stack application, to use my newly aquired skills
 - 🌱 I’m currently learning Node.js, express, mongodb atm.

@@ -1,5 +1,5 @@
 <img align='right' src="portraitSliced-removebg-preview.png" width="240" height="320">
-### Hei!👋 Jeg heter Håvard og er front-end utvikler.
+Hei!👋 Jeg heter Håvard og er front-end utvikler.
 <p>
  <br>
 Er for tiden deltager i Kodehode, hvor vi mesteparten av kurset har jobbet med frontend utvikling og hvor vi nå i innspurten jobber med backend, noe jeg syntes virker veldig spennende, og noe jeg gjerne vil fordype meg mer i.

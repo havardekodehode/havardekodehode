@@ -1,11 +1,9 @@
-### Hi there 👋 I am @havardekodehode
+### Hei!👋 @havardekodehode her
 
   <p>
-    🔭 I’m currently working on a full stack application, to use my newly acquired skills<br>
-    🌱 I’m currently learning Node.js, Express, MongoDB atm.<br>
-    👯 I’m looking to collaborate on rad projects😎<br>
-    🤔 I’m looking for help with a lot while I manouver the storm of bugs I encounter<br>
-    💬 Ask me about flex 💪<br>
+    🔭 Jobber for tiden med en full-stack app i node.js hvor du får film/serie anbefalinger<br>
+    🌱 Fordyper meg i  Node.js, Express, MongoDB for tiden<br>
+    💬 &!^~ google, ask me<br>
     📫 How to reach me: <a href="mailto:havardeinarsen@gmail.com">havardeinarsen@gmail.com</a>
   </p>
  

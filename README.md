@@ -1,4 +1,13 @@
-### Hei!👋 @havardekodehode her
+### Hei!👋 Jeg heter Håvard og er front-end utvikler.
+<p>
+Er for tiden deltager i Kodehode, hvor vi mesteparten av kurset har jobbet med frontend utvikling og hvor vi nå i innspurten jobber med backend, noe jeg syntes virker veldig spennende, og noe jeg gjerne vil fordype meg mer i.
+
+Som deltager på Kodehode, har jeg iløpet av de siste 6 månedene dyppet tærne mine i Figma, HTML, CSS, Git, JS, TS, React, og nå i innspurten node, express, MongoDB og SQL. Jeg føler meg stødig med disse verktøyene og du kan se hvordan jeg har løst problemer på mine prosjekter i Github.
+
+Hvis dette virket interessant, gi meg en lyd. Takk for interessen.
+ </p>
+<!--
+**havardekodehode/havardekodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   <p>
     🔭 Jobber for tiden med en full-stack app i node.js hvor du får film/serie anbefalinger<br>
@@ -6,9 +15,6 @@
     💬 &!^~ google, ask me<br>
     📫 How to reach me: <a href="mailto:havardeinarsen@gmail.com">havardeinarsen@gmail.com</a>
   </p>
- 
-<!--
-**havardekodehode/havardekodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

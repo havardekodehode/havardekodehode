@@ -1,4 +1,4 @@
-<img align='right' src="portraitSliced-removebg-preview.png" width="240" height="320">
+<img align='right' src="portraitSliced-removebg-preview.png" width="250" height="320">
 Hei!👋 Jeg heter Håvard og er front-end utvikler.
 <p>
  <br>

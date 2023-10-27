@@ -33,11 +33,11 @@
 				}
 
 				.path1 {
-					animation: colorChange 8s linear 1;
+					animation: colorChange 5s linear 1;
 				}
 
 				.portrait{
-					animation: fadeIn 8s linear 1;
+					animation: fadeIn 5s linear 1;
 				}
 
 			</style>

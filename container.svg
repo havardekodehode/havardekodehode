@@ -42,11 +42,11 @@
 				}
 
 				.path1 {
-					animation: colorChange 2s linear 1;
+					animation: colorChange 1.5s linear 1;
 				}
 
 				.portrait{
-					animation: fadeIn 2s linear 1;
+					animation: fadeIn 1.5s linear 1;
 				}
 
 			</style>

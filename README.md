@@ -12,7 +12,7 @@
       De siste 6 månedene har jeg forbedret meg alt fra Figma til HTML, 
       CSS, Git, JS, TS, React, og nå i innspurten av kurset: node, express, 
       MongoDB og SQL. <br/><br/>
-      Ta en kikk på mine github prosjekter, og se hvordan jeg har løst de med disse teknologiene.
+      Sjekk mine GitHub-prosjekter for å se hvordan jeg har implementert disse teknologiene.
 </p>      
 
 

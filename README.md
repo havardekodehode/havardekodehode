@@ -1,15 +1,21 @@
 <img align="right" src="container.svg"  width="225" height="250" alt="portrait">
 
-Hei!👋 Jeg heter Håvard og er front-end utvikler.
+<div>
+<h2>
+      Hei!👋 Jeg heter Håvard og er front-end utvikler.
+</h2>      
+<p>
+      Er for tiden deltager i Kodehode, hvor vi mesteparten av
+      kurset har jobbet med frontend utvikling og hvor vi nå er i
+      innspurten jobber med backend, noe som virker veldig
+      spennende, og jeg vil fordype meg mer i.
+      De siste 6 månedene har jeg forbedret meg alt fra Figma til HTML, 
+      CSS, Git, JS, TS, React, og nå i innspurten av kurset: node, express, 
+      MongoDB og SQL. 
+      Ta en kikk på mine github prosjekter, og se hvordan jeg har løst de med disse teknologiene.
+</p>      
 
-Er for tiden deltager i Kodehode, hvor vi mesteparten av
-kurset har jobbet med frontend utvikling og hvor vi nå er i
-innspurten jobber med backend, noe som virker veldig
-spennende, og jeg vil fordype meg mer i.
-De siste 6 månedene har jeg blitt bedre i alt fra Figma til HTML, 
-CSS, Git, JS, TS, React, og nå i innspurten: node, express, 
-MongoDB og SQL. 
-Ta en kikk på mine github prosjekter, og se hvordan jeg har løst de med disse teknologiene.
+
 
 <!--
 **havardekodehode/havardekodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

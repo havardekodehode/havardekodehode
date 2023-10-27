@@ -1,4 +1,4 @@
-<img align="right" src="container.svg"  width="225" height="300" alt="portrait">
+<img align="right" src="container.svg"  width="225" height="250" alt="portrait">
 
         Hei!👋 Jeg heter Håvard og er front-end utvikler.
 

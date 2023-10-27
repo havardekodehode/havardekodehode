@@ -5,7 +5,7 @@
       Hei!👋 Jeg heter Håvard og er front-end utvikler.
 </h2>      
 <p>
-      Er for tiden deltager i Kodehode, hvor vi mesteparten av
+      Er for tiden deltaker i Kodehode, hvor vi mesteparten av
       kurset har jobbet med frontend utvikling og hvor vi nå er i
       innspurten jobber med backend, noe som virker veldig
       spennende, og jeg vil fordype meg mer i.<br/><br/>

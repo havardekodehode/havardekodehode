@@ -1,14 +1,7 @@
- <div align="center">
+ <div align="start">
 	
-<img src="container.svg" width="1000" height="800" alt="Click to see the source">
+<img src="container.svg" width="1000" height="600">
 </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <!--
 **havardekodehode/havardekodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

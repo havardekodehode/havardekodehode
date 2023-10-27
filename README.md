@@ -9,10 +9,10 @@
       kurset har jobbet med frontend utvikling og hvor vi nå er i
       innspurten jobber med backend, noe som virker veldig
       spennende, og jeg vil fordype meg mer i.<br/><br/>
-      De siste 6 månedene har jeg forbedret meg alt fra Figma til HTML, 
+      De siste 6 månedene har jeg forbedret i meg alt fra Figma til HTML, 
       CSS, Git, JS, TS, React, og nå i innspurten av kurset: node, express, 
       MongoDB og SQL. <br/><br/>
-      Sjekk mine GitHub-prosjekter for å se hvordan jeg har implementert disse teknologiene.
+      Ta en titt på mine GitHub-prosjekter for å se hvordan jeg har implementert disse teknologiene.
 </p>      
 
 

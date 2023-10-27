@@ -11,7 +11,7 @@
       spennende, og jeg vil fordype meg mer i.<br/><br/>
       De siste 6 månedene har jeg forbedret i meg alt fra Figma til HTML, 
       CSS, Git, JS, TS, React, og nå i innspurten av kurset: node, express, 
-      MongoDB og SQL. <br/><br/>
+      MongoDB og SQL. React er mitt ess i ermet, og MERN-stacken virker da veldig interessant for meg.<br/><br/>
       Ta en titt på mine GitHub-prosjekter for å se hvordan jeg har implementert disse teknologiene.
 </p>      
 

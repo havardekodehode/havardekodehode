@@ -2,16 +2,14 @@
 
 Hei!👋 Jeg heter Håvard og er front-end utvikler.
 
-
 Er for tiden deltager i Kodehode, hvor vi mesteparten av
-kurset har jobbet med frontend utvikling og hvor vi nå i
-innspurten jobber med backend, noe jeg syntes virker veldig
-spennende, og noe jeg gjerne vil fordype meg mer i.
-Som deltager på Kodehode, har jeg iløpet av de siste 6 månedene
-dyppet tærne mine i Figma, HTML, CSS, Git, JS, TS, React, og
-nå i innspurten node, express, MongoDB og SQL. Jeg føler meg
-stødig med disse verktøyene og du kan se hvordan jeg har løst
-problemer på mine prosjekter i Github.
+kurset har jobbet med frontend utvikling og hvor vi nå er i
+innspurten jobber med backend, noe som virker veldig
+spennende, og jeg vil fordype meg mer i.
+De siste 6 månedene har jeg blitt bedre i alt fra Figma til HTML, 
+CSS, Git, JS, TS, React, og nå i innspurten: node, express, 
+MongoDB og SQL. 
+Ta en kikk på mine github prosjekter, og se hvordan jeg har løst de med disse teknologiene.
 
 <!--
 **havardekodehode/havardekodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

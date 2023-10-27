@@ -23,7 +23,7 @@
 				@keyframes colorChange {
 					0% { fill: rgba(5,223,216,0.303); }
 					28% { fill:rgba(252,92,124,0.287); }
-					100% { fill: rgba(0,0,0,0.366); }
+					100% { fill: rgba(0,0,0,0.500); }
 				}
 
 				.path1 {

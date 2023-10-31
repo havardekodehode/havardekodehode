@@ -6,7 +6,7 @@
 </h2>      
 <p>
       Jeg er for tiden deltaker i Kodehode, hvor vi mesteparten av
-      kurset har jobbet med frontend utvikling og backend nå i innspurten. 
+      kurset har jobbet med frontend utvikling og backend nå i innspurten. Er også medlem i Os kodeklubb, og liker å kode på fritiden.
       Spesielt det siste virker veldig spennende, og noe jeg vil fordype meg mer i.<br/><br/>
       De siste 6 månedene har jeg forbedret meg i alt fra Figma til HTML, 
       CSS, Git, Javascript, Typescript, React, og nå i innspurten av kurset: node, express, 

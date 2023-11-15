@@ -5,13 +5,14 @@
       Hei!👋 Jeg heter Håvard og er frontend utvikler.
 </h2>      
 <p>
-      Jeg er for tiden deltaker i Kodehode, hvor vi mesteparten av
-      kurset har jobbet med frontend-utvikling og backend nå i innspurten. Jeg er også medlem i Os kodeklubb, og liker å kode på fritiden.
-      Spesielt backend virker veldig spennende, og noe jeg vil fordype meg mer i.<br/><br/>
-      De siste 6 månedene har jeg forbedret meg i alt fra Figma til HTML, 
-      CSS, Git, Javascript, Typescript, React, og nå i innspurten av kurset: node, express, 
-      MongoDB og SQL. React er mitt ess i ermet, og MERN-stacken virker da veldig interessant for meg. Jeg er også lærevillig og åpen for å lære mer.<br/><br/>
+      De siste 6 månedene har jeg gjennom kurset Kodehode jobbet intensivt med og lært meg alt fra Figma til HTML, CSS, Git, Javascript, Typescript, 
+      React, og er nå i innspurten av kurset hvor jeg jobber med Node.JS, Express, MongoDB og SQL. 
+      Backend-delen er definitivt det morsomste, og MERN-stacken vil jeg derfor bli enda bedre på. 
+      <br/><br/>
+      
+      <br/>
       Ta gjerne en titt på mine GitHub-prosjekter for å se hvordan jeg har implementert disse teknologiene.
+      
 
 </p>      
 

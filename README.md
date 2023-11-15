@@ -9,8 +9,6 @@
       React, og er nå i innspurten av kurset hvor jeg jobber med Node.JS, Express, MongoDB og SQL. 
       Backend-delen er definitivt det morsomste, og MERN-stacken vil jeg derfor bli enda bedre på. 
       <br/><br/>
-      
-      <br/>
       Ta gjerne en titt på mine GitHub-prosjekter for å se hvordan jeg har implementert disse teknologiene.
       
 

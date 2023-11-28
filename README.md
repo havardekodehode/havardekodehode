@@ -5,9 +5,8 @@
       Hei!👋 Jeg heter Håvard og er frontend utvikler.
 </h2>      
 <p>
-      De siste 6 månedene har jeg gjennom kurset Kodehode jobbet intensivt med og lært meg alt fra Figma til HTML, CSS, Git, Javascript, Typescript, 
-      React, og er nå i innspurten av kurset hvor jeg jobber med Node.JS, Express, MongoDB og SQL. 
-      Backend-delen er definitivt det morsomste, og MERN-stacken vil jeg derfor bli enda bedre på. 
+      Det siste året har jeg gjennom kurset Kodehode jobbet intensivt med og lært meg alt fra Figma til HTML, CSS, Git, Javascript, Typescript, 
+      React, Node.JS, Express, MongoDB og SQL. Holder for tiden på å lære meg Dart og Flutter.  
       <br/><br/>
       Ta gjerne en titt på mine GitHub-prosjekter for å se hvordan jeg har implementert disse teknologiene.
       
